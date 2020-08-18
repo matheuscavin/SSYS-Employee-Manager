@@ -7,7 +7,7 @@ This is a basic Employee Manager system using Django framework.
 - Django 3.1
 
 ## Clone
-Clone this repo to your local machine using:
+Clone this repository to your local machine using:
 ```shell
 $ git clone https://github.com/matheuscavin/SSYS-Employee-Manager.git
 ```
