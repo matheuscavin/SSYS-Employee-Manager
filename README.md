@@ -1,2 +1,5 @@
 # SSYS-Employee-Manager
-Employee Manager using Django
+
+This is a basic Employee Manager system using Django framework.
+
+
